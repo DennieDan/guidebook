@@ -1,6 +1,7 @@
+<span id="title" class="d-none">Feedback Management</span>
 <frontmatter>
-  title: Feedback Management: Timing is Everything
-  keywords: feedback collection, debrief, session feedback, mentee input, reflection
+title: Feedback Management
+keywords: feedback collection, debrief, session feedback, mentee input, reflection
 </frontmatter>
 
 <br>
@@ -199,3 +200,6 @@ Effective feedback collection is crucial for improving mentoring sessions, but t
 ---
 
 _Remember: Feedback is a gift. When mentees share their thoughts and suggestions, they're investing in the improvement of your mentoring relationship and the learning experience for everyone involved._
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('trust_your_plan', 'practical_strategies') }}

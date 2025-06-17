@@ -1,6 +1,8 @@
+<span id="title" class="d-none">Time Management</span>
+
 <frontmatter>
-  title: Time Management: Don't Rush!
-  keywords: time management, session planning, buffer time, pacing, engagement monitoring
+title: Time Management
+keywords: time management, session planning, buffer time, pacing, engagement monitoring
 </frontmatter>
 
 <br>
@@ -118,3 +120,6 @@ Rushing through sessions creates several problems:
 ---
 
 _Remember: It's better to cover fewer topics thoroughly than many topics superficially. Quality learning takes time, and your mentees will benefit more from a well-paced session than a rushed one._
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('stay_calm', 'trust_your_plan') }}

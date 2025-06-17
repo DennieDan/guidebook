@@ -1,11 +1,12 @@
+<span id="title" class="d-none">Encounter Mentee's Reactions</span>
 <frontmatter>
-  title: Encountering Mentee's Reactions
-  keywords: mentee reactions, calm, articulate, BOOST model, time management, feedback, mentoring challenges
+title: Encounter Mentee's Reactions
+keywords: mentee reactions, calm, articulate, BOOST model, time management, feedback, mentoring challenges
 </frontmatter>
 
 <br>
 
-# Encountering Mentee's Reactions
+# Encounter Mentee's Reactions
 
 **A Comprehensive Guide to Handling Challenging Situations**
 
@@ -80,3 +81,6 @@ Get specific, actionable strategies for common mentoring challenges. This sectio
 - Lack of participation
 - Resistance to activities
 - Specific scenario responses
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('structuring_a_mentoring_session', 'stay_calm') }}

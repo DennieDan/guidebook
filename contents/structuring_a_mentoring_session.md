@@ -1,11 +1,12 @@
+<span id="title" class="d-none">Structure of a Session</span>
 <frontmatter>
-  title: Structuring a Mentoring Session
-  keywords: mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief
+title: Structure of a Session
+keywords: mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief
 </frontmatter>
 
 <br>
 
-# Structuring a Mentoring Session
+# Structure of a Session
 
 A well-structured mentoring session is crucial for maximizing learning outcomes and engagement. This guide provides a comprehensive framework based on educational research and best practices.
 
@@ -219,3 +220,8 @@ According to Walton et al. (2019), digital artefacts are effective ways to conso
 ---
 
 _Remember: The key to successful mentoring is flexibility within structure. While detailed planning is essential, be prepared to adapt based on mentee needs and unexpected circumstances._
+
+<!--- Add this to the end of the file -->
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('', 'encountering_mentees_reactions') }}

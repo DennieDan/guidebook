@@ -1,6 +1,8 @@
+<span id="title" class="d-none">Trust Your Plan and Stay Confident
+</span>
 <frontmatter>
-  title: Trust Your Plan and Stay Confident
-  keywords: boring, trust yourself, planning
+title: Trust Your Plan and Stay Confident
+keywords: boring, trust yourself, planning
 </frontmatter>
 
 <br>
@@ -31,3 +33,6 @@ Having confidence in your well-prepared plan is essential for effective mentorin
 - **Method Adaptation:** Change how you deliver, not what you deliver
 - **Pace Adjustment:** Speed up or slow down as needed
 - **Activity Modification:** Adapt activities to current circumstances
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('time_management', 'feedback_management') }}

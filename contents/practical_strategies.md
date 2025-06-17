@@ -1,6 +1,7 @@
+<span id="title" class="d-none">Some Practical Strategies</span>
 <frontmatter>
-  title: Practical Strategies for Common Challenges
-  keywords: mentee challenges, disruptive behavior, participation, resistance, classroom management
+title: Practical Strategies for Common Challenges
+keywords: mentee challenges, disruptive behavior, participation, resistance, classroom management
 </frontmatter>
 
 <br>
@@ -230,3 +231,6 @@ Every mentor encounters challenging situations with mentees. This guide provides
 ---
 
 _Remember: Every challenging situation is an opportunity to demonstrate effective mentoring and build stronger relationships with your mentees. Your response to difficulties teaches valuable lessons about problem-solving, communication, and resilience._
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('feedback_management', '') }}

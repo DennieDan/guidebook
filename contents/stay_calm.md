@@ -1,6 +1,7 @@
+<span id="title" class="d-none">Stay Calm</span>
 <frontmatter>
-  title: Stay Calm and Articulate
-  keywords: mentee reactions, calm, articulate, emotional control, role modeling, communication
+title: Stay Calm and Articulate
+keywords: mentee reactions, calm, articulate, emotional control, role modeling, communication
 </frontmatter>
 
 <br>
@@ -69,3 +70,6 @@ When mentees are noisy or not following instructions, the natural response is of
 ---
 
 _Remember: Your calmness is contagious. When you remain composed, your mentees are more likely to follow your lead and engage positively in the learning process._
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('encountering_mentees_reactions', 'time_management') }}
