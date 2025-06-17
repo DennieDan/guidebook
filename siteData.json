@@ -42,9 +42,9 @@
     },
     {
       "src": "contents/encountering_mentees_reactions.md",
-      "title": "Encountering Mentee's Reactions",
+      "title": "Encounter Mentee's Reactions",
       "headings": {
-        "encountering-mentee-s-reactions": "Encountering Mentee's Reactions",
+        "encounter-mentee-s-reactions": "Encounter Mentee's Reactions",
         "complete-guide-sections": "📚 Complete Guide Sections",
         "stay-calm-and-articulate": "🧘‍♀️ Stay Calm and Articulate",
         "time-management-don-t-rush": "⏰ Time Management: Don't Rush!",
@@ -58,6 +58,7 @@
     },
     {
       "src": "contents/feedback_management.md",
+      "title": "Feedback Management",
       "headings": {
         "feedback-management-timing-is-everything": "🔄 Feedback Management: Timing is Everything",
         "when-to-collect-feedback": "When to Collect Feedback",
@@ -88,7 +89,8 @@
         "execution": "Execution",
         "follow-up": "Follow-up"
       },
-      "headingKeywords": {}
+      "headingKeywords": {},
+      "frontmatterKeywords": "feedback collection, debrief, session feedback, mentee input, reflection"
     },
     {
       "src": "contents/practical_strategies.md",
@@ -138,9 +140,9 @@
     },
     {
       "src": "contents/structuring_a_mentoring_session.md",
-      "title": "Structuring a Mentoring Session",
+      "title": "Structure of a Session",
       "headings": {
-        "structuring-a-mentoring-session": "Structuring a Mentoring Session",
+        "structure-of-a-session": "Structure of a Session",
         "session-structure-overview": "📋 Session Structure Overview",
         "1-plan-your-session-as-detailed-as-possible": "1. 📝 Plan Your Session as Detailed as Possible",
         "why-detailed-planning-matters": "Why Detailed Planning Matters",
@@ -167,6 +169,7 @@
     },
     {
       "src": "contents/time_management.md",
+      "title": "Time Management",
       "headings": {
         "time-management-don-t-rush": "⏰ Time Management: Don't Rush!",
         "the-time-perception-trap": "The Time Perception Trap",
@@ -188,7 +191,8 @@
         "planning-tools": "Planning Tools",
         "monitoring-techniques": "Monitoring Techniques"
       },
-      "headingKeywords": {}
+      "headingKeywords": {},
+      "frontmatterKeywords": "time management, session planning, buffer time, pacing, engagement monitoring"
     },
     {
       "src": "contents/topic3a.md",
