@@ -5,7 +5,7 @@
 <header sticky>
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
-    <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
+    <li><a href="{{baseUrl}}/contents/structuring_a_mentoring_session.html" class="nav-link">Structure of a session</a></li>
     <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
     <dropdown header="Topic 3" class="nav-link">
       <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
@@ -21,14 +21,17 @@
 
 <div id="flex-body">
   <nav id="site-nav">
-    <div class="site-nav-top">
-      <div class="fw-bold mb-2" style="font-size: 1.25rem;">Contents</div>
-    </div>
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
+* [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html)
+* Mentee's Interaction Tips :expanded:
+  * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.md)
+  * [Stay Calm]({{baseUrl}}/contents/stay_calm.md)
+  * [Time Management]({{baseUrl}}/contents/time_management.md)
+  * [Trust Your Plan and Stay Confident]({{baseUrl}}/contents/trust_your_plan.md)
+  * [Feedback Management]({{baseUrl}}/contents/feedback_management.md)
+  * [Some Practical Strategies]({{baseUrl}}/contents/practical_strategies.md)
 * Topic 3 :expanded:
   * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
   * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
