@@ -224,11 +224,11 @@
     },
     {
       "src": "index.md",
-      "title": "Home Page",
+      "title": "Welcome to my mentoring journal",
       "headings": {
-        "what-just-happened": "What just happened?",
-        "navigating-this-site": "Navigating this site",
-        "guide-to-markbind": "Guide to MarkBind"
+        "why-this-guide-book": "Why this guide book?",
+        "featured": "Featured Topics",
+        "contact": "Contact"
       },
       "headingKeywords": {}
     }
