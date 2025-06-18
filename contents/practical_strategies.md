@@ -233,4 +233,4 @@ Every mentor encounters challenging situations with mentees. This guide provides
 _Remember: Every challenging situation is an opportunity to demonstrate effective mentoring and build stronger relationships with your mentees. Your response to difficulties teaches valuable lessons about problem-solving, communication, and resilience._
 
 {% from "njk/common.njk" import previous_next %}
-{{ previous_next('feedback_management', '') }}
+{{ previous_next('structuring_a_mentoring_session', 'encountering_mentees_reactions') }}

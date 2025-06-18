@@ -1,7 +1,8 @@
+<span id="title" class="d-none">Home Page</span>
 <frontmatter>
-  title: Welcome to my mentoring journal
-  layout: default.md
-  pageNav: 4
+title: Welcome to my mentoring journal
+layout: default.md
+pageNav: 4
 </frontmatter>
 
 <br>
@@ -68,4 +69,5 @@ This site was created as part of my mentorship journey with Teach SG. My goal is
 Want to contribute, ask questions, or join our next session? <br>
 <a href="mailto:your.email@example.com" class="btn btn-primary">Email Me</a>
 
----
+{% from "njk/common.njk" import previous_next_root %}
+{{ previous_next_root('', 'contents/structuring_a_mentoring_session') }}
