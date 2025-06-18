@@ -26,7 +26,9 @@ pageNav: 4
 </div>
 
 <div style="display: flex; justify-content: center; gap: 1.25rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
-  <a href="contents/structuring_a_mentoring_session.md" class="btn btn-lg" style="background-color: #03A6A1; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Start Here</a>
+  <a href="contents/structuring_a_mentoring_session.md" class="btn btn-lg" style="background-color: #03A6A1; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Start Here 
+  <md>:far-arrow-right:</md>
+  </a>
   <a href="#featured" class="btn btn-lg" style="background-color: #85D2B6; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Key Topics</a>
   <a href="#contact" class="btn btn-lg" style="background-color: #B5D99C; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Contact</a>
 </div>
