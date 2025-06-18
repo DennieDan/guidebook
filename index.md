@@ -1,77 +1,71 @@
 <frontmatter>
-  title: Home Page
+  title: Welcome to my mentoring journal
   layout: default.md
   pageNav: 4
-  pageNavTitle: "Topics"
 </frontmatter>
 
 <br>
 
-<div class="bg-primary text-white px-2 py-5 mb-4">
+<div style="background: linear-gradient(90deg, #6EC5D9 0%, #85D2B6 40%, #B5D99C 75%, #F5F5F5 100%);
+            color: #1a1a1a;
+            border-radius: 1rem;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+            border: 3px solid #fff;
+            padding: 2.5rem 1rem;
+            margin-bottom: 2.5rem;
+            text-align: center;
+            position: relative;">
   <div class="container">
-    <h1 class="display-5 no-index">Great!<br>You've just initialized a MarkBind site.</h1>
-    <p class="lead">Let's get started...</p>
+    <img src="/images/logo.png" alt="Mentoring Logo" style="max-width: 120px; margin-bottom: 1rem; display: block; margin-left: auto; margin-right: auto;" />
+    <h1 class="display-5 no-index" style="font-size: 2.8rem; font-weight: 800; letter-spacing: 1px; margin-bottom: 1rem;">🎉 Welcome to my mentoring journal</h1>
+    <p class="lead" style="font-size: 1.5rem; font-weight: 600; background: rgba(30,30,30,0.18); display: inline-block; padding: 0.5rem 1.2rem; border-radius: 0.7rem; box-shadow: 0 2px 8px rgba(80,80,180,0.08);">
+      Wondering how to be a <span style="color: #4ED6D6; font-weight: bold;">good mentor</span> for GEN2050 Teach SG? <br>This is a <span style="color: #FFB385; font-weight: bold;">mini-guidebook</span> to kickstart your journey.
+    </p>
   </div>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 1.25rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
+  <a href="contents/structuring_a_mentoring_session.md" class="btn btn-lg" style="background-color: #03A6A1; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Start Here</a>
+  <a href="#featured" class="btn btn-lg" style="background-color: #85D2B6; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Key Topics</a>
+  <a href="#contact" class="btn btn-lg" style="background-color: #B5D99C; color: #fff; padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 0.75rem; border: none; transition: transform 0.2s ease, box-shadow 0.2s ease;">Contact</a>
 </div>
 
 ---
 
-## What just happened?
+## What is Teach SG?
 
-You have just initialized a _default_ MarkBind site! It is equipped with a set of core features, including site and page navigation. Additionally, we have included some convenient links to our User Guide, to help you get started quickly and easily.
-
-<box type="tip">
-
-If you were intending to convert an existing GitHub wiki or a docs folder into MarkBind, use the `--convert` flag instead. See <a href="https://markbind.org/userGuide/markBindInTheProjectWorkflow.html#converting-existing-project-documentation-wiki" target="_blank">User Guide: MarkBind in the Project Workflow</a> for more information.
-
-If you want to start with a <tooltip content="i.e. without any content">_minimal_</tooltip> template instead, use the `--template` flag with the "minimal" option to initialize a minimal site instead of the default. See <a href="https://markbind.org/userGuide/templates.html" target="_blank">User Guide: Templates</a> for more information.
-
-</box>
+<!-- Placeholder: You can fill in this section later -->
 
 ---
 
-## Navigating this site
+## Why this guide book?
 
-This _default_ site comes pre-configured with the core <a href="https://markbind.org/userGuide/components/navigation.html#navigation-components" target="_blank">Navigation components</a>: a <tooltip content="Site Navigation">**siteNav**</tooltip>, a <tooltip content="Page Navigation">**pageNav**</tooltip>, a <tooltip content="Navigation Bar">**NavBar**</tooltip>, and a **Search Bar**. To help you get started with the **siteNav**, we have included <tooltip content="Topic 1, Topic 2, Topic 3, Topic 3a, Topic 3b">five dummy placeholder pages</tooltip>. The **NavBar** also comes with a placeholder slot for your custom Logo.
-
----
-
-## Guide to MarkBind
-
-To see the capability of MarkBind in action, feel free to take a look at some of the websites built using MarkBind on our <a href="https://markbind.org/showcase.html" target="_blank">Showcase</a> page. 
-
-For more information on how to work with MarkBind sites and to add content, refer to our comprehensive <a href="https://markbind.org/userGuide/gettingStarted.html" target="_blank">User Guide</a>. 
-
-<box type="info">
-
-If you are interested in contributing to MarkBind, you can refer to our <a href="https://markbind.org/devdocs/devGuide/devGuide.html" target="_blank">Developer Guide</a> as well!
-
-</box>
-
-<panel header="**Good starting points in our User Guide**" expanded no-close>
-
-##### **User Guide: Authoring Contents**
-
-> Learn about the variety of syntax schemes, formats, and custom MarkBind components that you can use in your MarkBind site.
-
-More info in: _<a href="https://markbind.org/userGuide/authoringContents.html" target="_blank">User Guide → Authoring Contents</a>_
+- As part of my experience and struggles from mentoring, I will pass on some key tips to make your journey more pleasant.
+- Primary challenge I want to resolve is to make your activities more engaging to students with short attention span.
 
 ---
 
-##### **User Guide: Working with Sites**
+## Featured Topics {id="featured"}
 
-> Learn how to modify site properties, apply themes, and enable/disable plugins for your MarkBind site.
-
-More info in: _<a href="https://markbind.org/userGuide/workingWithSites.html" target="_blank">User Guide → Working with Sites</a>_
+<ul>
+  <li><a href="contents/structuring_a_mentoring_session.md">Structuring a Mentoring Session</a></li>
+  <li><a href="contents/time_management.md">Time Management</a></li>
+  <li><a href="contents/boost_model.md">BOOST Model</a></li>
+  <li><a href="contents/feedback_management.md">Feedback Management</a></li>
+  <li><a href="contents/stay_calm.md">Staying Calm</a></li>
+</ul>
 
 ---
 
-##### **User Guide: Full Syntax Reference**
+## About This Guidebook
 
-> Refer to our Full Syntax Reference page to find a specific feature or component that you want to use in your MarkBind site.
+This site was created as part of my mentorship journey with Teach SG. My goal is to help new mentors avoid common pitfalls and make sessions more engaging for students.
 
-More info in: _<a href="https://markbind.org/userGuide/fullSyntaxReference.html" target="_blank">User Guide → Full Syntax Reference</a>_
+---
 
-</panel>
+## Contact {id="contact"}
+
+Want to contribute, ask questions, or join our next session? <br>
+<a href="mailto:your.email@example.com" class="btn btn-primary">Email Me</a>
 
 ---
