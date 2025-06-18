@@ -35,18 +35,11 @@ pageNav: 4
 
 ## Why this guide book?
 
-- As part of my experience and struggles from mentoring, I will pass on some key tips to make your journey more pleasant.
-- Primary challenge I want to resolve is to make your activities more engaging to students with short attention span.
+Built from my mentorship journey with Teach SG, this site shares key tips I’ve learned through both success and struggle — so your own journey can be smoother. My focus is on helping you design activities that truly engage students, especially those with short attention spans.
 
 ---
 
 ## Featured Topics {id="featured"}
-
----
-
-## About This Guidebook
-
-This site was created as part of my mentorship journey with Teach SG. My goal is to help new mentors avoid common pitfalls and make sessions more engaging for students.
 
 ---
 
