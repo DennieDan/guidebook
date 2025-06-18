@@ -35,7 +35,7 @@ pageNav: 4
 
 ## Why this guide book?
 
-Built from my mentorship journey with Teach SG, this site shares key tips I’ve learned through both success and struggle — so your own journey can be smoother. My focus is on helping you design activities that truly engage students, especially those with short attention spans.
+Built from my mentorship journey with Teach SG, this site shares key tips I've learned through both success and struggle — so your own journey can be smoother. My focus is on helping you design activities that truly engage students, especially those with short attention spans.
 
 ---
 
@@ -46,7 +46,7 @@ Built from my mentorship journey with Teach SG, this site shares key tips I’ve
 ## Contact {id="contact"}
 
 Want to contribute, ask questions, or join our next session?
-<a href="mailto:your.email@example.com" class="btn btn-primary">Email Me</a>
+<a href="mailto:your.email@example.com?subject=Teach%20SG%20Journal%20-%20Suggestions%20on%20Improvement&body=Dear%20admin%2C%0AI%20think%20the%20website%20would%20be%20better%20if" class="btn btn-primary">Email Me</a>
 
 {% from "njk/common.njk" import previous_next_root %}
 {{ previous_next_root('', 'contents/structuring_a_mentoring_session') }}
