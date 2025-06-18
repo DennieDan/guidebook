@@ -1,8 +1,5 @@
 <head-bottom>
   <link rel="stylesheet" href="{{baseUrl}}/stylesheets/main.css">
-  <link rel="icon" type="image/png" href="images/logo.png">
-  <link rel="shortcut icon" type="image/png" href="images/logo.png">
-  <link rel="apple-touch-icon" href="images/logo.png">
 </head-bottom>
 
 <header sticky>
