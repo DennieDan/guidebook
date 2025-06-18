@@ -6,10 +6,13 @@
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
     <li><a href="{{baseUrl}}/contents/structuring_a_mentoring_session.html" class="nav-link">Structure of a session</a></li>
-    <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
-    <dropdown header="Topic 3" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-      <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+    <li><a href="{{baseUrl}}/contents/practical_strategies.html" class="nav-link">Practical Strategies</a></li>
+    <dropdown header="Mentee Interaction Tips" class="nav-link">
+      <li><a href="{{baseUrl}}/contents/encountering_mentees_reactions.html" class="dropdown-item">Encountering Mentee's Reactions</a></li>
+      <li><a href="{{baseUrl}}/contents/stay_calm.html" class="dropdown-item">Stay Calm</a></li>
+      <li><a href="{{baseUrl}}/contents/time_management.html" class="dropdown-item">Time Management</a></li>
+      <li><a href="{{baseUrl}}/contents/trust_your_plan.html" class="dropdown-item">Trust Your Plan</a></li>
+      <li><a href="{{baseUrl}}/contents/feedback_management.html" class="dropdown-item">Feedback Management</a></li>
     </dropdown>
     <li slot="right">
       <form class="navbar-form">
@@ -25,16 +28,14 @@
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html)
+* [Practical Strategies]({{baseUrl}}/contents/practical_strategies.html)
 * Mentee's Interaction Tips :expanded:
-  * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.md)
-  * [Stay Calm]({{baseUrl}}/contents/stay_calm.md)
-  * [Time Management]({{baseUrl}}/contents/time_management.md)
-  * [Trust Your Plan and Stay Confident]({{baseUrl}}/contents/trust_your_plan.md)
-  * [Feedback Management]({{baseUrl}}/contents/feedback_management.md)
-  * [Some Practical Strategies]({{baseUrl}}/contents/practical_strategies.md)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+  * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html)
+  * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
+  * [Time Management]({{baseUrl}}/contents/time_management.html)
+  * [Trust Your Plan and Stay Confident]({{baseUrl}}/contents/trust_your_plan.html)
+  * [Feedback Management]({{baseUrl}}/contents/feedback_management.html)
+* [Boost Model]({{baseUrl}}/contents/boost_model.html)
       </site-nav>
     </div>
   </nav>
