@@ -1,10 +1,15 @@
 <head-bottom>
   <link rel="stylesheet" href="{{baseUrl}}/stylesheets/main.css">
+  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="shortcut icon" type="image/png" href="images/logo.png">
+  <link rel="apple-touch-icon" href="images/logo.png">
 </head-bottom>
 
 <header sticky>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">
+    <img src="{{baseUrl}}/images/logo.png">
+    </a>
     <li><a href="{{baseUrl}}/contents/structuring_a_mentoring_session.html" class="nav-link">Structure of a session</a></li>
     <li><a href="{{baseUrl}}/contents/practical_strategies.html" class="nav-link">Practical Strategies</a></li>
     <dropdown header="Mentee Interaction Tips" class="nav-link">

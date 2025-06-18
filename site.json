@@ -1,6 +1,6 @@
 {
   "baseUrl": "/guidebook",
-  "titlePrefix": "",
+  "titlePrefix": "TSG Journal",
   "titleSuffix": "",
   "ignore": [
     "_markbind/layouts/*",
