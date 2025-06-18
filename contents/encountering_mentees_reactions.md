@@ -16,7 +16,7 @@ Mentoring sessions don't always go according to plan. When mentees become noisy,
 
 This comprehensive guide is organized into focused sections to help you navigate specific challenges:
 
-### 🧘‍♀️ [Stay Calm and Articulate](stay_calm.md)
+### 🧘‍♀️ [Stay Calm and Articulate]({{baseUrl}}/contents/stay_calm.html)
 
 **The Foundation of Effective Mentoring**
 
@@ -27,7 +27,7 @@ Learn why maintaining composure is crucial and discover practical techniques for
 - Practical techniques for immediate response
 - Communication strategies when calm
 
-### ⏰ [Time Management: Don't Rush!](time_management.md)
+### ⏰ [Time Management: Don't Rush!]({{baseUrl}}/contents/time_management.html)
 
 **The Art of Effective Session Pacing**
 
@@ -38,7 +38,7 @@ Understand the time perception trap and learn strategies for better session paci
 - Time management strategies
 - Signs you're rushing and how to slow down
 
-### 🎯 [Trust Your Plan and Stay Confident](trust_your_plan.md)
+### 🎯 [Trust Your Plan and Stay Confident]({{baseUrl}}/contents/trust_your_plan.html)
 
 **The Power of Preparation**
 
@@ -49,7 +49,7 @@ Build confidence in your mentoring plan and learn to maintain integrity while be
 - Maintaining plan integrity
 - Flexible implementation strategies
 
-### 📋 [The BOOST Model for Effective Feedback](boost_model.md)
+### 📋 [The BOOST Model for Effective Feedback]({{baseUrl}}/contents/boost_model.html)
 
 **Balanced, Objective, Observed, Specific, Timely**
 
@@ -60,7 +60,7 @@ Master the BOOST framework for delivering effective feedback and communication. 
 - Common mistakes to avoid
 - Self-assessment tools
 
-### 🔄 [Feedback Management: Timing is Everything](feedback_management.md)
+### 🔄 [Feedback Management: Timing is Everything]({{baseUrl}}/contents/feedback_management.html)
 
 **When and How to Collect Mentee Feedback**
 
@@ -71,7 +71,7 @@ Learn the optimal timing and methods for collecting meaningful feedback. This se
 - Structured feedback processes
 - Feedback analysis and implementation
 
-### 🛠️ [Practical Strategies for Common Challenges](practical_strategies.md)
+### 🛠️ [Practical Strategies for Common Challenges]({{baseUrl}}/contents/practical_strategies.html)
 
 **Handling Difficult Situations in Mentoring Sessions**
 
