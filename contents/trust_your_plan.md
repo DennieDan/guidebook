@@ -3,6 +3,7 @@
 <frontmatter>
 title: Trust Your Plan and Stay Confident
 keywords: boring, trust yourself, planning
+pageNav: 3
 </frontmatter>
 
 <br>

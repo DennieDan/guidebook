@@ -2,6 +2,7 @@
 <frontmatter>
 title: Practical Strategies for Common Challenges
 keywords: mentee challenges, disruptive behavior, participation, resistance, classroom management
+pageNav: 3
 </frontmatter>
 
 <br>

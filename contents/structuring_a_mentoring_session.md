@@ -2,6 +2,7 @@
 <frontmatter>
 title: Structure of a Session
 keywords: mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief
+pageNav: 3
 </frontmatter>
 
 <br>

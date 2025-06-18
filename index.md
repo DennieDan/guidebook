@@ -33,12 +33,6 @@ pageNav: 4
 
 ---
 
-## What is Teach SG?
-
-<!-- Placeholder: You can fill in this section later -->
-
----
-
 ## Why this guide book?
 
 - As part of my experience and struggles from mentoring, I will pass on some key tips to make your journey more pleasant.
@@ -47,14 +41,6 @@ pageNav: 4
 ---
 
 ## Featured Topics {id="featured"}
-
-<ul>
-  <li><a href="contents/structuring_a_mentoring_session.md">Structuring a Mentoring Session</a></li>
-  <li><a href="contents/time_management.md">Time Management</a></li>
-  <li><a href="contents/boost_model.md">BOOST Model</a></li>
-  <li><a href="contents/feedback_management.md">Feedback Management</a></li>
-  <li><a href="contents/stay_calm.md">Staying Calm</a></li>
-</ul>
 
 ---
 
@@ -66,7 +52,7 @@ This site was created as part of my mentorship journey with Teach SG. My goal is
 
 ## Contact {id="contact"}
 
-Want to contribute, ask questions, or join our next session? <br>
+Want to contribute, ask questions, or join our next session?
 <a href="mailto:your.email@example.com" class="btn btn-primary">Email Me</a>
 
 {% from "njk/common.njk" import previous_next_root %}
