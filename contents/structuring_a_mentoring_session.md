@@ -17,7 +17,7 @@ A well-structured mentoring session is crucial for maximizing learning outcomes 
 | --------------- | ----------- | ------------------------ | ----------------------- |
 | **Planning**    | Pre-session | Detailed preparation     | Clear roadmap           |
 | **Negotiation** | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
-| **Execution**   | 40-50 min   | Core learning activities | Knowledge acquisition   |
+| **Execution**   | 90-100 min  | Core learning activities | Knowledge acquisition   |
 | **Debrief**     | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
 
 ---
@@ -32,14 +32,16 @@ According to Farhang et al. (2023), the more detailed the plan, the more success
 
 ### Essential Planning Elements
 
-#### **Session Information**
+#### **💠 Session Information**
 
 - **Date & Time:** [Specific timestamp]
 - **Duration:** [Total session length]
 - **Location:** [Physical/Virtual space]
 - **Participants:** [List of mentees and mentors]
 
-#### **Role Assignments**
+#### **💠 Role Assignments**
+
+Roles can be rotated every week, but it is important for each role to be responsible for their duties so as the Lead Mentor won't be distracted and manage to attract attention from mentees
 
 | Role                   | Responsibilities                        | Tools/Resources                     |
 | ---------------------- | --------------------------------------- | ----------------------------------- |
@@ -47,23 +49,45 @@ According to Farhang et al. (2023), the more detailed the plan, the more success
 | **Support Mentor**     | Individual assistance, group monitoring | Note-taking tools, assessment forms |
 | **Mentee Coordinator** | Peer support, activity organization     | Group management tools              |
 
-#### **Detailed Timeline**
+#### **💠 Detailed Timeline**
 
 ```
-00:00 - 00:05    Session opening & agenda review
-00:05 - 00:15    Negotiation phase with mentees
-00:15 - 00:45    Core learning activities
-00:45 - 00:50    Debrief & assignment distribution
-00:50 - 00:60    Q&A and session closure
+14:00 - 14:05    Session opening & agenda review
+14:05 - 14:15    Negotiation phase with mentees
+14:15 - 14:45    Core learning activities
+14:45 - 14:50    Debrief & assignment distribution
+14:50 - 15:10    Socio-emotional activity introduction
+15:10 - 15:15    Review the agreed agenda
+15:15 - 15:45    Socio-emotional activity
+15:45 - 15:55    Debrief the whole session
+15:55 - 16:00    Distribute snacks and go home
 ```
 
-#### **Learning Objectives**
+<question type="checkbox" hint="Be as detailed as possible">
+
+###### What are other things we can add to the timeline?
+
+  <br>
+  <q-option correct>
+    Tools required
+  </q-option>
+  <q-option correct reason="I think specifying the responsiblities of each mentor is the most important. It helps the timeline flows smoother without anyone being left behind or carrying the session on their own.">
+    Each role and responsibility
+  </q-option>
+  <q-option correct>
+  Backup Plan
+  </q-option>
+</question>
+
+Check this for my [Suggested Timeline Template]()
+
+#### **💠 Learning Objectives**
 
 - **Primary Goal:** [Specific learning outcome]
 - **Secondary Goals:** [Additional outcomes]
 - **Success Criteria:** [How to measure achievement]
 
-#### **Required Tools & Resources**
+#### **💠 Required Tools & Resources**
 
 - **Digital Tools:** [Software, apps, platforms]
 - **Physical Materials:** [Handouts, equipment]

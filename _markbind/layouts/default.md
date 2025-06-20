@@ -15,6 +15,7 @@
       <li><a href="{{baseUrl}}/contents/trust_your_plan.html" class="dropdown-item">Trust Your Plan</a></li>
       <li><a href="{{baseUrl}}/contents/feedback_management.html" class="dropdown-item">Feedback Management</a></li>
     </dropdown>
+    <li><a href="{{baseUrl}}/index.html#contact" class="nav-link">Contact Me</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -29,8 +30,7 @@
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html)
-* Mentee's Interaction Tips :expanded:
-  * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html)
+* [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html) :expanded:
   * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
   * [Time Management]({{baseUrl}}/contents/time_management.html)
   * [Trust Your Plan and Stay Confident]({{baseUrl}}/contents/trust_your_plan.html)
