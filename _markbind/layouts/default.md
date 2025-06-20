@@ -8,7 +8,6 @@
     <img src="{{baseUrl}}/images/logo.png">
     </a>
     <li><a href="{{baseUrl}}/contents/structuring_a_mentoring_session.html" class="nav-link">Structure of a session</a></li>
-    <li><a href="{{baseUrl}}/contents/practical_strategies.html" class="nav-link">Practical Strategies</a></li>
     <dropdown header="Mentee Interaction Tips" class="nav-link">
       <li><a href="{{baseUrl}}/contents/encountering_mentees_reactions.html" class="dropdown-item">Encountering Mentee's Reactions</a></li>
       <li><a href="{{baseUrl}}/contents/stay_calm.html" class="dropdown-item">Stay Calm</a></li>
@@ -30,7 +29,6 @@
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html)
-* [Practical Strategies]({{baseUrl}}/contents/practical_strategies.html)
 * Mentee's Interaction Tips :expanded:
   * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html)
   * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
