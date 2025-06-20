@@ -99,6 +99,10 @@ Check this for my [Suggested Timeline Template]({{baseUrl}}/contents/timeline_te
 
 **Duration:** 5-10 minutes at session start
 
+<box type="tip">
+    Keep this step brief, yet don't show that you're in a rush.
+</box>
+
 ### The Scaffolding Approach
 
 This step follows the scaffolding rule in Planning & Pedagogy. Giving mentees a complete picture of the session and the right to discuss and adjust the plan makes them more responsible for their choices, leading to better attitudes and cooperation.
@@ -125,7 +129,11 @@ This step follows the scaffolding rule in Planning & Pedagogy. Giving mentees a 
 
 ### Sample Negotiation Script
 
-> _"Here's what I've planned for today's session. We'll be working on [specific topic] for about [duration]. I'd like to hear your thoughts on this approach and if you'd like to adjust anything before we begin."_
+> _"Guys! We'll be working on [specific topic] for about [duration]. After that we will have a 5 minutes break then move on to our **Storytelling Activity**. This will last until 10:45 AM, then you guys will have another 15 minutes to play badminton. How do you guys think about this?"_
+
+<box type="important">
+    Be specific in the activity they you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.
+</box>
 
 ---
 
