@@ -79,7 +79,7 @@ Roles can be rotated every week, but it is important for each role to be respons
   </q-option>
 </question>
 
-Check this for my [Suggested Timeline Template]()
+Check this for my [Suggested Timeline Template]({{baseUrl}}/contents/timeline_template.html).
 
 #### **💠 Learning Objectives**
 

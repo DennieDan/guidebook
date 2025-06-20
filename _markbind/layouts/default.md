@@ -35,6 +35,7 @@
   * [Time Management]({{baseUrl}}/contents/time_management.html)
   * [Trust Your Plan and Stay Confident]({{baseUrl}}/contents/trust_your_plan.html)
   * [Feedback Management]({{baseUrl}}/contents/feedback_management.html)
+* [Timeline Template]({{baseUrl}}/contents/timeline_template.html)
 * [Boost Model]({{baseUrl}}/contents/boost_model.html)
       </site-nav>
     </div>
