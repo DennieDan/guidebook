@@ -29,7 +29,8 @@
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
-* [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html)
+* [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html) :expanded:
+  * [Planning]({{baseUrl}}/contents/planning.md)
 * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html) :expanded:
   * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
   * [Time Management]({{baseUrl}}/contents/time_management.html)
