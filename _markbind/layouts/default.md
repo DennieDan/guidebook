@@ -3,7 +3,7 @@
 </head-bottom>
 
 <header sticky>
-  <navbar type="dark">
+  <navbar type="primary">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">
     <img src="{{baseUrl}}/images/logo.png">
     </a>
