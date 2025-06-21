@@ -132,26 +132,29 @@ This step follows the scaffolding rule in Planning & Pedagogy. Giving mentees a 
 > _"Guys! We'll be working on [specific topic] for about [duration]. After that we will have a 5 minutes break then move on to our **Storytelling Activity**. This will last until 10:45 AM, then you guys will have another 15 minutes to play badminton. How do you guys think about this?"_
 
 <box type="important">
-    Be specific in the activity they you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.
+    Be specific in the activity that you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.
 </box>
 
 ---
 
 ## 3. 🎁 Offer Rewards and Choices
 
-**Duration:** Integrated throughout the session
-
 ### The Reward and Punishment Theory
 
-According to Smith and Warneken (2016), children from a very young age are aware of the distribution of rewards and punishments based on deservedness. This principle applies to learners of all ages.
+According to Smith and Warneken (2016), children from a very young age are aware of the distribution of rewards and punishments based on deservedness. The budget given by the course is enough to afford snacks for every single mentoring session.
+
+<box type="tip">
+  <markdown>
+  There are some points that you need to take notes when deciding snacks and rewards for mentess. Refer to [Offering Snacks Tips for Mentors]({{baseUrl}}/contents/snacks.md) for some of my notes and experience.
+  </markdown>
+</box>
 
 ### Reward System Design
 
 #### **Positive Rewards**
 
-- **Immediate Rewards:** Verbal praise, small privileges
+- **Immediate Rewards:** Verbal praise, small privileges, snacks
 - **Session Rewards:** Choice of next activity, leadership roles
-- **Long-term Rewards:** Recognition, certificates, advancement opportunities
 
 #### **Constructive "Punishments"**
 
@@ -161,17 +164,11 @@ _Note: These are learning opportunities, not actual punishments_
 - **Skill Building:** Writing extra essays for language practice
 - **Reflection Tasks:** Journaling about learning experiences
 
-#### **Choice-Based Learning**
-
-- Allow mentees to select from multiple activity options
-- Provide autonomy in how they approach tasks
-- Offer different difficulty levels for the same concept
-
 ### Implementation Tips
 
 - **Be Transparent:** Clearly explain the reward/punishment system
 - **Be Consistent:** Apply rules fairly to all participants
-- **Be Flexible:** Adjust based on individual needs and circumstances
+- **Be Flexible:** Give mentees rights to choose the rewards and punishments. Negotiation on rewards and punishments can be a part of [Negotiation Process]() and [Setting goals for Next week]().
 
 ---
 
@@ -225,21 +222,11 @@ According to Walton et al. (2019), digital artefacts are effective ways to conso
 
 ---
 
-## 🎯 Success Metrics
+## 🎯 5. Setting goals for Next week
 
-### Immediate Indicators
+Tell the mentees a little bit on what activities are you organizing the following weeks.
 
-- [ ] All mentees actively participated
-- [ ] Learning objectives were achieved
-- [ ] Session completed within time limits
-- [ ] Mentees completed assignments
-
-### Long-term Indicators
-
-- [ ] Improved mentee performance
-- [ ] Increased engagement in future sessions
-- [ ] Positive feedback from mentees
-- [ ] Achievement of broader learning goals
+Let them suggest their desired snacks or rewards also -> increase interaction, build rapport.
 
 ---
 

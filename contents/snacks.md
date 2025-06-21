@@ -6,4 +6,8 @@
 
 # Topic 3b
 
-> This is a placeholder page - more content to be added.
+Notes before buying snacks
+
+- gelatin
+- peanuts
+- Halal
