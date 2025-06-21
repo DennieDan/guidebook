@@ -13,115 +13,13 @@ A well-structured mentoring session is crucial for maximizing learning outcomes 
 
 ## 📋 Session Structure Overview
 
-| Phase                                                   | Duration    | Key Activities           | Expected Outcomes       |
-| ------------------------------------------------------- | ----------- | ------------------------ | ----------------------- |
-| **[Planning]({{basedUrl}}/contents/planning.md)**       | Pre-session | Detailed preparation     | Clear roadmap           |
-| **[Negotiation]({{basedUrl}}/contents/negotiation.md)** | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
-| **Execution**<br>[Rewards & Punishments]()              | 90-100 min  | Core learning activities | Knowledge acquisition   |
-| **Debrief**                                             | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
-| **Setting Next Goals**                                  | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
-
----
-
-## 3. 🎁 Offer Rewards and Choices
-
-### The Reward and Punishment Theory
-
-According to Smith and Warneken (2016), children from a very young age are aware of the distribution of rewards and punishments based on deservedness. The budget given by the course is enough to afford snacks for every single mentoring session.
-
-<box type="tip">
-  <markdown>
-  There are some points that you need to take notes when deciding snacks and rewards for mentess. Refer to [Offering Snacks Tips for Mentors]({{baseUrl}}/contents/snacks.md) for some of my notes and experience.
-  </markdown>
-</box>
-
-### Reward System Design
-
-#### **Positive Rewards**
-
-- **Immediate Rewards:** Verbal praise, small privileges, snacks
-- **Session Rewards:** Choice of next activity, leadership roles
-
-#### **Constructive "Punishments"**
-
-_Note: These are learning opportunities, not actual punishments_
-
-- **Extra Practice:** Solving additional math problems
-- **Skill Building:** Writing extra essays for language practice
-- **Reflection Tasks:** Journaling about learning experiences
-
-### Implementation Tips
-
-- **Be Transparent:** Clearly explain the reward/punishment system
-- **Be Consistent:** Apply rules fairly to all participants
-- **Be Flexible:** Give mentees rights to choose the rewards and punishments. Negotiation on rewards and punishments can be a part of [Negotiation Process]() and [Setting goals for Next week]().
-
----
-
-## 4. 📚 Give a Debrief with a Small Assignment
-
-**Duration:** 5-10 minutes at session end
-
-### The Power of Debriefing
-
-Debriefing helps remind mentees of the content, activities, and goals of the session. It reinforces learning and provides closure.
-
-### Debrief Structure
-
-#### **Content Review**
-
-- Summarize key concepts covered
-- Highlight important takeaways
-- Address any remaining questions
-
-#### **Activity Reflection**
-
-- Discuss what worked well
-- Identify areas for improvement
-- Share mentee feedback
-
-#### **Goal Assessment**
-
-- Review learning objectives
-- Confirm understanding
-- Plan for next steps
-
-### Small Assignment Design
-
-#### **Digital Artefacts**
-
-According to Walton et al. (2019), digital artefacts are effective ways to consolidate knowledge and encourage connections between learning and understanding. The longer time spent creating artefacts, the more thorough understanding students develop (Sadik, 2008).
-
-#### **Assignment Examples**
-
-- **Simple Tasks:** Remember a take-home message
-- **Reflection Tasks:** Find a word to describe an uncomfortable emotion
-- **Creative Tasks:** Create a visual summary of the session
-- **Practice Tasks:** Apply concepts to real-world scenarios
-
-#### **Assignment Guidelines**
-
-- **Duration:** 5-15 minutes
-- **Complexity:** Appropriate to mentee level
-- **Purpose:** Knowledge consolidation and preparation for next session
-- **Follow-up:** Use assignments to revise at the beginning of the following session
-
----
-
-## 🎯 5. Setting goals for Next week
-
-Tell the mentees a little bit on what activities are you organizing the following weeks.
-
-Let them suggest their desired snacks or rewards also -> increase interaction, build rapport.
-
----
-
-## 📖 References
-
-- Farhang et al. (2023). _The Impact of Detailed Planning on Educational Outcomes_
-- Smith, K. E., & Warneken, F. (2016). _Children's Developing Understanding of Merit and Deservedness_
-- Walton, G., et al. (2019). _Digital Artefacts in Learning: A Comprehensive Review_
-- Sadik, A. (2008). _Digital Storytelling: A Meaningful Technology-Integrated Approach_
+| Phase                                                                        | Duration    | Key Activities           | Expected Outcomes       |
+| ---------------------------------------------------------------------------- | ----------- | ------------------------ | ----------------------- |
+| **[Planning]({{basedUrl}}/contents/planning.html)**                          | Pre-session | Detailed preparation     | Clear roadmap           |
+| **[Negotiation]({{basedUrl}}/contents/negotiation.html)**                    | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
+| **Execution**<br>[Rewards & Punishments]({{basedUrl}}/contents/rewards.html) | 90-100 min  | Core learning activities | Knowledge acquisition   |
+| **[Debrief]({{basedUrl}}/contents/debrief.html)**                            | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
+| **[Setting Next Goals]({{basedUrl}}/contents/next_goals.html)**              | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
 
 ---
 

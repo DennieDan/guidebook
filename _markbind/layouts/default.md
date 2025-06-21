@@ -30,8 +30,11 @@
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html) :expanded:
-  * [Planning]({{baseUrl}}/contents/planning.md)
-  * [Negotiation]({{basedUrl}}/contents/negotiation.md)
+  * [Planning]({{baseUrl}}/contents/planning.html)
+  * [Negotiation]({{basedUrl}}/contents/negotiation.html)
+  * [Rewards & Punishments]({{basedUrl}}/contents/rewards.html)
+  * [Debrief]({{basedUrl}}/contents/debrief.html)
+  * [Setting Next Week Goals]({{basedUrl}}/contents/next_goals.html)
 * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html) :expanded:
   * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
   * [Time Management]({{baseUrl}}/contents/time_management.html)
@@ -39,6 +42,7 @@
   * [Feedback Management]({{baseUrl}}/contents/feedback_management.html)
 * [Timeline Template]({{baseUrl}}/contents/timeline_template.html)
 * [Boost Model]({{baseUrl}}/contents/boost_model.html)
+* [References]({{baseUrl}}/contents/references.html)
       </site-nav>
     </div>
   </nav>

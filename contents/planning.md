@@ -48,21 +48,30 @@ Roles can be rotated every week, but it is important for each role to be respons
 15:55 - 16:00    Distribute snacks and go home
 ```
 
-<question type="checkbox" hint="Be as detailed as possible">
+<panel>
+  <p slot="header" class="card-title">
+    <strong>
+        <span style="color:#03A6A1;">
+        <md>:fas-comment:</md> Fast quiz</span>
+    </strong>
+  </p>
+  <question type="checkbox" hint="Be as detailed as possible">
 
 ###### What are other things we can add to the timeline?
 
   <br>
   <q-option correct>
-    Tools required
+      Tools required
   </q-option>
   <q-option correct reason="I think specifying the responsiblities of each mentor is the most important. It helps the timeline flows smoother without anyone being left behind or carrying the session on their own.">
-    Each role and responsibility
+      Each role and responsibility
   </q-option>
   <q-option correct>
   Backup Plan
   </q-option>
-</question>
+  </question>
+
+</panel>
 
 Check this for my [Suggested Timeline Template]({{baseUrl}}/contents/timeline_template.html).
 
