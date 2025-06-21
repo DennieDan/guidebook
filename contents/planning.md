@@ -28,11 +28,11 @@ According to Farhang et al. (2023), the more detailed the plan, the more success
 
 Roles can be rotated every week, but it is important for each role to be responsible for their duties so as the Lead Mentor won't be distracted and manage to attract attention from mentees
 
-| Role                   | Responsibilities                        | Tools/Resources                     |
-| ---------------------- | --------------------------------------- | ----------------------------------- |
-| **Lead Mentor**        | Session facilitation, time management   | Timer, presentation materials       |
-| **Support Mentor**     | Individual assistance, group monitoring | Note-taking tools, assessment forms |
-| **Mentee Coordinator** | Peer support, activity organization     | Group management tools              |
+| Role                                                                                                   | Responsibilities                        | Tools/Resources                     |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------- | ----------------------------------- |
+| **Lead Mentor**                                                                                        | Session facilitation, time management   | Timer, presentation materials       |
+| **Support Mentor**                                                                                     | Individual assistance, group monitoring | Note-taking tools, assessment forms |
+| **[Mentee Coordinator]({{baseUrl}}/contents/trust_your_plan.md#1-here-comes-our-mentee-coordinators)** | Peer support, activity organization     | Group management tools              |
 
 #### **💠 Detailed Timeline**
 

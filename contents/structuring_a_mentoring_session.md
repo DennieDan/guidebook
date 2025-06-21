@@ -13,55 +13,13 @@ A well-structured mentoring session is crucial for maximizing learning outcomes 
 
 ## 📋 Session Structure Overview
 
-| Phase                                             | Duration    | Key Activities           | Expected Outcomes       |
-| ------------------------------------------------- | ----------- | ------------------------ | ----------------------- |
-| **[Planning]({{basedUrl}}/contents/planning.md)** | Pre-session | Detailed preparation     | Clear roadmap           |
-| **Negotiation**                                   | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
-| **Execution**                                     | 90-100 min  | Core learning activities | Knowledge acquisition   |
-| **Debrief**                                       | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
-| **Setting Next Goals**                            | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
-
----
-
-## 2. 🤝 Make a Deal with Mentees
-
-**Duration:** 5-10 minutes at session start
-
-<box type="tip">
-    Keep this step brief, yet don't show that you're in a rush.
-</box>
-
-### The Scaffolding Approach
-
-This step follows the scaffolding rule in Planning & Pedagogy. Giving mentees a complete picture of the session and the right to discuss and adjust the plan makes them more responsible for their choices, leading to better attitudes and cooperation.
-
-### Negotiation Process
-
-#### **Step 1: Present the Session Overview**
-
-- Share the detailed plan with mentees
-- Explain the learning objectives clearly
-- Highlight the expected benefits
-
-#### **Step 2: Encourage Discussion**
-
-- Ask for mentee input on activities
-- Allow time for questions and concerns
-- Be open to reasonable modifications
-
-#### **Step 3: Reach Agreement**
-
-- Confirm understanding of the plan
-- Establish mutual commitment
-- Set clear expectations
-
-### Sample Negotiation Script
-
-> _"Guys! We'll be working on [specific topic] for about [duration]. After that we will have a 5 minutes break then move on to our **Storytelling Activity**. This will last until 10:45 AM, then you guys will have another 15 minutes to play badminton. How do you guys think about this?"_
-
-<box type="important">
-    Be specific in the activity that you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.
-</box>
+| Phase                                                   | Duration    | Key Activities           | Expected Outcomes       |
+| ------------------------------------------------------- | ----------- | ------------------------ | ----------------------- |
+| **[Planning]({{basedUrl}}/contents/planning.md)**       | Pre-session | Detailed preparation     | Clear roadmap           |
+| **[Negotiation]({{basedUrl}}/contents/negotiation.md)** | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
+| **Execution**<br>[Rewards & Punishments]()              | 90-100 min  | Core learning activities | Knowledge acquisition   |
+| **Debrief**                                             | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
+| **Setting Next Goals**                                  | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
 
 ---
 

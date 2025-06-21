@@ -31,6 +31,7 @@
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html) :expanded:
   * [Planning]({{baseUrl}}/contents/planning.md)
+  * [Negotiation]({{basedUrl}}/contents/negotiation.md)
 * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html) :expanded:
   * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
   * [Time Management]({{baseUrl}}/contents/time_management.html)
