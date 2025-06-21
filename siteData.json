@@ -41,6 +41,18 @@
       "frontmatterKeywords": "BOOST model, feedback, communication, balanced, objective, observed, specific, timely"
     },
     {
+      "src": "contents/debrief.md",
+      "title": "Debrief",
+      "headings": {
+        "4-give-a-debrief-with-a-small-assignment": "4. 📚 Give a Debrief with a Small Assignment",
+        "the-power-of-debriefing": "The Power of Debriefing",
+        "debrief-structure": "Debrief Structure",
+        "small-assignment-design": "Small Assignment Design"
+      },
+      "headingKeywords": {},
+      "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
+    },
+    {
       "src": "contents/encountering_mentees_reactions.md",
       "title": "Encounter Mentee's Reactions",
       "headings": {
@@ -93,31 +105,65 @@
       "frontmatterKeywords": "feedback collection, debrief, session feedback, mentee input, reflection"
     },
     {
-      "src": "contents/practical_strategies.md",
-      "title": "Practical Strategies for Common Challenges",
+      "src": "contents/negotiation.md",
+      "title": "Negotiation",
       "headings": {
-        "practical-strategies-for-common-challenges": "🛠️ Practical Strategies for Common Challenges",
-        "noisy-or-disruptive-behavior": "Noisy or Disruptive Behavior",
-        "immediate-response-protocol": "Immediate Response Protocol",
-        "prevention-strategies": "Prevention Strategies",
-        "lack-of-participation": "Lack of Participation",
-        "encouragement-techniques": "Encouragement Techniques",
-        "advanced-participation-strategies": "Advanced Participation Strategies",
-        "resistance-to-activities": "Resistance to Activities",
-        "addressing-concerns": "Addressing Concerns",
-        "resistance-prevention": "Resistance Prevention",
-        "specific-challenge-scenarios": "Specific Challenge Scenarios",
-        "scenario-1-side-conversations": "Scenario 1: Side Conversations",
-        "scenario-2-technology-distractions": "Scenario 2: Technology Distractions",
-        "scenario-3-disengagement": "Scenario 3: Disengagement",
-        "scenario-4-conflict-between-mentees": "Scenario 4: Conflict Between Mentees",
-        "long-term-strategy-development": "Long-term Strategy Development",
-        "building-positive-relationships": "Building Positive Relationships",
-        "creating-engaging-environments": "Creating Engaging Environments",
-        "continuous-improvement": "Continuous Improvement"
+        "2-make-a-deal-with-mentees": "2. 🤝 Make a Deal with Mentees",
+        "the-scaffolding-approach": "The Scaffolding Approach",
+        "negotiation-process": "Negotiation Process",
+        "sample-negotiation-script": "Sample Negotiation Script"
       },
       "headingKeywords": {},
-      "frontmatterKeywords": "mentee challenges, disruptive behavior, participation, resistance, classroom management"
+      "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
+    },
+    {
+      "src": "contents/next_goals.md",
+      "title": "Setting Next Week Goals",
+      "headings": {
+        "5-setting-goals-for-next-week": "🎯 5. Setting goals for Next week"
+      },
+      "headingKeywords": {},
+      "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
+    },
+    {
+      "src": "contents/planning.md",
+      "title": "Planning",
+      "headings": {
+        "1-plan-your-session-as-detailed-as-possible": "1. 📝 Plan Your Session as Detailed as Possible",
+        "why-detailed-planning-matters": "Why Detailed Planning Matters",
+        "essential-planning-elements": "Essential Planning Elements"
+      },
+      "headingKeywords": {},
+      "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
+    },
+    {
+      "src": "contents/references.md",
+      "title": "References",
+      "headings": {
+        "references": "📖 References"
+      },
+      "headingKeywords": {},
+      "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
+    },
+    {
+      "src": "contents/rewards.md",
+      "title": "Rewards and Punishments",
+      "headings": {
+        "3-offer-rewards-and-choices": "3. 🎁 Offer Rewards and Choices",
+        "the-reward-and-punishment-theory": "The Reward and Punishment Theory",
+        "reward-system-design": "Reward System Design",
+        "implementation-tips": "Implementation Tips"
+      },
+      "headingKeywords": {},
+      "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
+    },
+    {
+      "src": "contents/snacks.md",
+      "title": "Topic 3b",
+      "headings": {
+        "topic-3b": "Topic 3b"
+      },
+      "headingKeywords": {}
     },
     {
       "src": "contents/stay_calm.md",
@@ -143,26 +189,7 @@
       "title": "Structure of a Session",
       "headings": {
         "structure-of-a-session": "Structure of a Session",
-        "session-structure-overview": "📋 Session Structure Overview",
-        "1-plan-your-session-as-detailed-as-possible": "1. 📝 Plan Your Session as Detailed as Possible",
-        "why-detailed-planning-matters": "Why Detailed Planning Matters",
-        "essential-planning-elements": "Essential Planning Elements",
-        "2-make-a-deal-with-mentees": "2. 🤝 Make a Deal with Mentees",
-        "the-scaffolding-approach": "The Scaffolding Approach",
-        "negotiation-process": "Negotiation Process",
-        "sample-negotiation-script": "Sample Negotiation Script",
-        "3-offer-rewards-and-choices": "3. 🎁 Offer Rewards and Choices",
-        "the-reward-and-punishment-theory": "The Reward and Punishment Theory",
-        "reward-system-design": "Reward System Design",
-        "implementation-tips": "Implementation Tips",
-        "4-give-a-debrief-with-a-small-assignment": "4. 📚 Give a Debrief with a Small Assignment",
-        "the-power-of-debriefing": "The Power of Debriefing",
-        "debrief-structure": "Debrief Structure",
-        "small-assignment-design": "Small Assignment Design",
-        "success-metrics": "🎯 Success Metrics",
-        "immediate-indicators": "Immediate Indicators",
-        "long-term-indicators": "Long-term Indicators",
-        "references": "📖 References"
+        "session-structure-overview": "📋 Session Structure Overview"
       },
       "headingKeywords": {},
       "frontmatterKeywords": "mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief"
@@ -195,18 +222,18 @@
       "frontmatterKeywords": "time management, session planning, buffer time, pacing, engagement monitoring"
     },
     {
-      "src": "contents/topic3a.md",
-      "title": "Topic 3a",
+      "src": "contents/timeline_template.md",
+      "title": "Suggested Timeline Template",
       "headings": {
-        "topic-3a": "Topic 3a"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "contents/topic3b.md",
-      "title": "Topic 3b",
-      "headings": {
-        "topic-3b": "Topic 3b"
+        "suggested-timeline-template": "⏳ Suggested Timeline Template",
+        "timeline-structure": "Timeline Structure",
+        "role-responsibilities": "Role Responsibilities",
+        "lead-mentor": "Lead Mentor",
+        "support-mentor": "Support Mentor",
+        "logistic-manager": "Logistic Manager",
+        "mentee-coordinator": "Mentee Coordinator",
+        "backup-plan": "Backup Plan",
+        "tips-for-effective-timeline-management": "Tips for Effective Timeline Management"
       },
       "headingKeywords": {}
     },
@@ -217,6 +244,7 @@
         "trust-your-plan-and-stay-confident": "🎯 Trust Your Plan and Stay Confident",
         "the-power-of-preparation": "The Power of Preparation",
         "why-confidence-matters": "Why Confidence Matters",
+        "how-to-deal-with-distracted-mentees": "How to deal with distracted mentees?",
         "maintaining-plan-integrity": "Maintaining Plan Integrity"
       },
       "headingKeywords": {},
