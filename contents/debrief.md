@@ -54,3 +54,6 @@ According to Walton et al. (2019), digital artefacts are effective ways to conso
 - **Complexity:** Appropriate to mentee level
 - **Purpose:** Knowledge consolidation and preparation for next session
 - **Follow-up:** Use assignments to revise at the beginning of the following session
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('rewards', 'next_goals') }}

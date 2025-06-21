@@ -13,13 +13,13 @@ A well-structured mentoring session is crucial for maximizing learning outcomes 
 
 ## 📋 Session Structure Overview
 
-| Phase                                                                        | Duration    | Key Activities           | Expected Outcomes       |
-| ---------------------------------------------------------------------------- | ----------- | ------------------------ | ----------------------- |
-| **[Planning]({{basedUrl}}/contents/planning.html)**                          | Pre-session | Detailed preparation     | Clear roadmap           |
-| **[Negotiation]({{basedUrl}}/contents/negotiation.html)**                    | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
-| **Execution**<br>[Rewards & Punishments]({{basedUrl}}/contents/rewards.html) | 90-100 min  | Core learning activities | Knowledge acquisition   |
-| **[Debrief]({{basedUrl}}/contents/debrief.html)**                            | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
-| **[Setting Next Goals]({{basedUrl}}/contents/next_goals.html)**              | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
+| Phase                                                                       | Duration    | Key Activities           | Expected Outcomes       |
+| --------------------------------------------------------------------------- | ----------- | ------------------------ | ----------------------- |
+| **[Planning]({{baseUrl}}/contents/planning.html)**                          | Pre-session | Detailed preparation     | Clear roadmap           |
+| **[Negotiation]({{baseUrl}}/contents/negotiation.html)**                    | 5-10 min    | Agreement with mentees   | Commitment & buy-in     |
+| **Execution**<br>[Rewards & Punishments]({{baseUrl}}/contents/rewards.html) | 90-100 min  | Core learning activities | Knowledge acquisition   |
+| **[Debrief]({{baseUrl}}/contents/debrief.html)**                            | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
+| **[Setting Next Goals]({{baseUrl}}/contents/next_goals.html)**              | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
 
 ---
 
@@ -28,4 +28,4 @@ _Remember: The key to successful mentoring is flexibility within structure. Whil
 <!--- Add this to the end of the file -->
 
 {% from "njk/common.njk" import previous_next %}
-{{ previous_next('', 'encountering_mentees_reactions') }}
+{{ previous_next('', 'planning') }}

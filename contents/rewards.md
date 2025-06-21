@@ -39,3 +39,6 @@ _Note: These are learning opportunities, not actual punishments_
 - **Be Transparent:** Clearly explain the reward/punishment system
 - **Be Consistent:** Apply rules fairly to all participants
 - **Be Flexible:** Give mentees rights to choose the rewards and punishments. Negotiation on rewards and punishments can be a part of [Negotiation Process]() and [Setting goals for Next week]().
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('negotiation', 'debrief') }}

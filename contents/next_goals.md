@@ -12,3 +12,6 @@ pageNav: 3
 Tell the mentees a little bit on what activities are you organizing the following weeks.
 
 Let them suggest their desired snacks or rewards also -> increase interaction, build rapport.
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('debrief', 'encountering_mentees_reactions') }}

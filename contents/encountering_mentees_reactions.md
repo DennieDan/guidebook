@@ -84,4 +84,4 @@ Get specific, actionable strategies for common mentoring challenges. This sectio
 - Specific scenario responses
 
 {% from "njk/common.njk" import previous_next %}
-{{ previous_next('structuring_a_mentoring_session', 'stay_calm') }}
+{{ previous_next('next_goals', 'stay_calm') }}

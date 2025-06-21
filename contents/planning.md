@@ -1,6 +1,6 @@
 <span id="title" class="d-none">Planning</span>
 <frontmatter>
-title: Structure of a Session
+title: Planning
 keywords: mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief
 pageNav: 3
 </frontmatter>
@@ -86,3 +86,6 @@ Check this for my [Suggested Timeline Template]({{baseUrl}}/contents/timeline_te
 - **Digital Tools:** [Software, apps, platforms]
 - **Physical Materials:** [Handouts, equipment]
 - **Assessment Tools:** [Evaluation methods]
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('structuring_a_mentoring_session', 'negotiation') }}

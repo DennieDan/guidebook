@@ -31,10 +31,10 @@
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Structure of a session]({{baseUrl}}/contents/structuring_a_mentoring_session.html) :expanded:
   * [Planning]({{baseUrl}}/contents/planning.html)
-  * [Negotiation]({{basedUrl}}/contents/negotiation.html)
-  * [Rewards & Punishments]({{basedUrl}}/contents/rewards.html)
-  * [Debrief]({{basedUrl}}/contents/debrief.html)
-  * [Setting Next Week Goals]({{basedUrl}}/contents/next_goals.html)
+  * [Negotiation]({{baseUrl}}/contents/negotiation.html)
+  * [Rewards & Punishments]({{baseUrl}}/contents/rewards.html)
+  * [Debrief]({{baseUrl}}/contents/debrief.html)
+  * [Setting Next Week Goals]({{baseUrl}}/contents/next_goals.html)
 * [Encountering Mentee's Reactions]({{baseUrl}}/contents/encountering_mentees_reactions.html) :expanded:
   * [Stay Calm]({{baseUrl}}/contents/stay_calm.html)
   * [Time Management]({{baseUrl}}/contents/time_management.html)

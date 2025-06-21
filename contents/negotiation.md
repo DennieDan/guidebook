@@ -1,6 +1,6 @@
 <span id="title" class="d-none">Negotiation</span>
 <frontmatter>
-title: Structure of a Session
+title: Negotiation
 keywords: mentor, session, tips, strategy, strategies, planning, pedagogy, scaffolding, rewards, debrief
 pageNav: 3
 </frontmatter>
@@ -44,3 +44,6 @@ This step follows the scaffolding rule in Planning & Pedagogy. The final objecti
 <box type="important">
     Be specific in the activity that you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.
 </box>
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('planning', 'rewards') }}
