@@ -140,3 +140,48 @@ mark {
     display: none;
   }
 }
+
+/* Custom navbar styling */
+.custom-navbar {
+  background-color: #03a6a1 !important;
+}
+
+/* More specific navbar styling to override MarkBind defaults */
+.navbar.custom-navbar {
+  background-color: #03a6a1 !important;
+}
+
+/* Even more specific targeting */
+header .navbar.custom-navbar {
+  background-color: #03a6a1 !important;
+}
+
+/* Target the navbar element directly */
+.navbar[add-class*="custom-navbar"] {
+  background-color: #03a6a1 !important;
+}
+
+/* Additional aggressive targeting */
+.navbar {
+  background-color: #03a6a1 !important;
+}
+
+/* Target any navbar within the header */
+header .navbar {
+  background-color: #03a6a1 !important;
+}
+
+/* Target the specific navbar type */
+.navbar[type="none"] {
+  background-color: #03a6a1 !important;
+}
+
+/* Override Bootstrap bg-info with our custom color */
+.bg-info {
+  background-color: #03a6a1 !important;
+}
+
+/* Target navbar with bg-info class */
+.navbar.bg-info {
+  background-color: #03a6a1 !important;
+}
