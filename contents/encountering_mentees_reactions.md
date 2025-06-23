@@ -72,16 +72,5 @@ Learn the optimal timing and methods for collecting meaningful feedback. This se
 - Structured feedback processes
 - Feedback analysis and implementation
 
-### 🛠️ [Practical Strategies for Common Challenges]({{baseUrl}}/contents/practical_strategies.html)
-
-**Handling Difficult Situations in Mentoring Sessions**
-
-Get specific, actionable strategies for common mentoring challenges. This section includes:
-
-- Noisy or disruptive behavior
-- Lack of participation
-- Resistance to activities
-- Specific scenario responses
-
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('next_goals', 'stay_calm') }}

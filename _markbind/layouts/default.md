@@ -42,6 +42,7 @@
   * [Feedback Management]({{baseUrl}}/contents/feedback_management.html)
 * [Timeline Template]({{baseUrl}}/contents/timeline_template.html)
 * [Boost Model]({{baseUrl}}/contents/boost_model.html)
+* [Snacks and More]({{baseUrl}}/contents/snacks.html)
 * [References]({{baseUrl}}/contents/references.html)
       </site-nav>
     </div>

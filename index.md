@@ -37,6 +37,8 @@ pageNav: 4
 
 Built from my mentorship journey with Teach SG, this site shares key tips I've learned through both success and struggle — so your own journey can be smoother. My focus is on helping you design activities that truly engage students, especially those with short attention spans.
 
+My experience is specifically related to upper-primary students (from P4 to P6) so it may differ from those folks who will serve the mentoring in secondary schools. But most of the contents and tips are applicable for any mentors in general.
+
 ---
 
 ## Contact {id="contact"}
