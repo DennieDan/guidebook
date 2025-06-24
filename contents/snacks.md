@@ -1,6 +1,7 @@
+<span id="title" class="d-none">Snacks and More</span>
 <frontmatter>
-  title: Snacks and More
-  pageNav: 4
+title: Snacks and More
+pageNav: 4
 </frontmatter>
 
 <br>
@@ -38,6 +39,6 @@ I highly recommend sweet snacks as it is helpful in boosting the mood and energy
 - **Lactose intolerance** - soya milk is a great alternative to regular milk drinks
 - **Gluten sensitivity** - potato biscuits might be a safer option than wheat-based snacks
 
-Form to fill in
+This information can be collected via the first [Getting to Know You Form]({{baseUrl}}/contents/form.html).
 
 _Remember: Prices may vary depending on where you shop and package sizes! The prices are recorded as in 2025_ 🛒

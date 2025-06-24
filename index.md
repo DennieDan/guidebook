@@ -20,7 +20,7 @@ pageNav: 4
     <img src="/images/logo.png" alt="Mentoring Logo" style="max-width: 120px; margin-bottom: 1rem; display: block; margin-left: auto; margin-right: auto;" />
     <h1 class="display-5 no-index" style="font-size: 2.8rem; font-weight: 800; letter-spacing: 1px; margin-bottom: 1rem;">🎉 Welcome to my mentoring journal</h1>
     <p class="lead" style="font-size: 1.5rem; font-weight: 600; background: rgba(30,30,30,0.18); display: inline-block; padding: 0.5rem 1.2rem; border-radius: 0.7rem; box-shadow: 0 2px 8px rgba(80,80,180,0.08);">
-      Wondering how to be a <span style="color: #4ED6D6; font-weight: bold;">good mentor</span> for GEN2050 Teach SG? <br>This is a <span style="color: #FFB385; font-weight: bold;">mini-guidebook</span> to kickstart your journey.
+      Wondering how to be a <span style="color: #4ED6D6; font-weight: bold;">good mentor</span> for <tooltip content="A _Community and Engagement Pillar_ module in NUS. Students are required to mentor primary/secondary school students in order to gather service-learning experience.">GEN2050 Teach SG</tooltip>? <br>This is a <span style="color: #FFB385; font-weight: bold;">mini-guidebook</span> to kickstart your journey.
     </p>
   </div>
 </div>
@@ -44,7 +44,7 @@ My experience is specifically related to upper-primary students (from P4 to P6) 
 ## Contact {id="contact"}
 
 Want to contribute, ask questions, or join our next session?
-<a href="mailto:your.email@example.com?subject=Teach%20SG%20Journal%20-%20Suggestions%20on%20Improvement&body=Dear%20admin%2C%0AI%20think%20the%20website%20would%20be%20better%20if" class="btn btn-primary">Email Me</a>
+<a href="mailto:dandinh1922@gmail.com?subject=Teach%20SG%20Journal%20-%20Suggestions%20on%20Improvement&body=Dear%20admin%2C%0AI%20think%20the%20website%20would%20be%20better%20if" class="btn btn-primary">Email Me</a>
 
 {% from "njk/common.njk" import previous_next_root %}
 {{ previous_next_root('', 'contents/structuring_a_mentoring_session') }}
