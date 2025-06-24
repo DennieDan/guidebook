@@ -5,6 +5,8 @@ keywords: mentor, session, tips, strategy, strategies, planning, pedagogy, scaff
 pageNav: 3
 </frontmatter>
 
+<br>
+
 ## 2. 🤝 Make a Deal with Mentees
 
 **Duration:** 5-10 minutes at session start
@@ -39,7 +41,7 @@ This step follows the scaffolding rule in Planning & Pedagogy. The final objecti
 
 ### Sample Negotiation Script
 
-> _"Guys! We'll be working on [specific topic] for about [duration]. After that we will have a 5 minutes break then move on to our **Storytelling Activity**. This will last until 10:45 AM, then you guys will have another 15 minutes to play badminton. How do you guys think about this?"_
+> _"Guys! We'll be working on [specific topic] for about [duration]. After that we will have a 5-minute break then move on to our **Storytelling Activity**. This will last until 10:45 AM, then you guys will have another 15 minutes to play badminton. How do you guys think about this?"_
 
 <box type="important">
     Be specific in the activity that you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.

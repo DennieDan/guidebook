@@ -50,17 +50,6 @@ Build confidence in your mentoring plan and learn to maintain integrity while be
 - Maintaining plan integrity
 - Flexible implementation strategies
 
-### 📋 [The BOOST Model for Effective Feedback]({{baseUrl}}/contents/boost_model.html)
-
-**Balanced, Objective, Observed, Specific, Timely**
-
-Master the BOOST framework for delivering effective feedback and communication. This comprehensive section includes:
-
-- Detailed explanation of each BOOST component
-- Implementation examples and scenarios
-- Common mistakes to avoid
-- Self-assessment tools
-
 ### 🔄 [Feedback Management: Timing is Everything]({{baseUrl}}/contents/feedback_management.html)
 
 **When and How to Collect Mentee Feedback**
@@ -71,6 +60,17 @@ Learn the optimal timing and methods for collecting meaningful feedback. This se
 - Effective feedback collection methods
 - Structured feedback processes
 - Feedback analysis and implementation
+
+### 📋 [The BOOST Model for Effective Feedback]({{baseUrl}}/contents/boost_model.html)
+
+**Balanced, Objective, Observed, Specific, Timely**
+
+Master the BOOST framework for delivering effective feedback and communication. This comprehensive section includes:
+
+- Detailed explanation of each BOOST component
+- Implementation examples and scenarios
+- Common mistakes to avoid
+- Self-assessment tools
 
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('next_goals', 'stay_calm') }}

@@ -45,15 +45,6 @@ Rushing through sessions creates several problems:
 - **Check Understanding:** Regular comprehension checks
 - **Flexible Transitions:** Smooth movement between activities
 
-### Time Allocation Guidelines
-
-| Activity Type            | Recommended Duration | Flexibility | Key Considerations        |
-| ------------------------ | -------------------- | ----------- | ------------------------- |
-| **Introduction**         | 5-10 minutes         | Low         | Set expectations clearly  |
-| **Core Learning**        | 20-30 minutes        | Medium      | Monitor comprehension     |
-| **Practice/Application** | 15-25 minutes        | High        | Allow for individual pace |
-| **Debrief**              | 5-10 minutes         | Low         | Ensure closure            |
-
 ## Signs You're Rushing
 
 ### Behavioral Indicators

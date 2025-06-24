@@ -11,7 +11,7 @@ pageNav: 3
 
 ### The Reward and Punishment Theory
 
-According to Smith and Warneken (2016), children from a very young age are aware of the distribution of rewards and punishments based on deservedness. The budget given by the course is enough to afford snacks for every single mentoring session.
+According to Smith and Warneken (2016), children from a very young age are aware of the distribution of rewards and punishments based on deservedness. Luckily, the budget given by the course is enough to afford snacks for every single mentoring session.
 
 <box type="tip">
   <markdown>
@@ -28,7 +28,9 @@ According to Smith and Warneken (2016), children from a very young age are aware
 
 #### **Constructive "Punishments"**
 
-_Note: These are learning opportunities, not actual punishments_
+<box type="important">
+These are learning opportunities, not actual punishments
+</box>
 
 - **Extra Practice:** Solving additional math problems
 - **Skill Building:** Writing extra essays for language practice
@@ -38,7 +40,7 @@ _Note: These are learning opportunities, not actual punishments_
 
 - **Be Transparent:** Clearly explain the reward/punishment system
 - **Be Consistent:** Apply rules fairly to all participants
-- **Be Flexible:** Give mentees rights to choose the rewards and punishments. Negotiation on rewards and punishments can be a part of [Negotiation Process]() and [Setting goals for Next week]().
+- **Be Flexible:** Give mentees rights to choose the rewards and punishments. Negotiation on rewards and punishments can be a part of [Negotiation Process]({{baseUrl}}/contents/negotiation.html) and [Setting goals for Next week]({{baseUrl}}/contents/next_goals.html).
 
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('negotiation', 'debrief') }}

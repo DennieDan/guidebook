@@ -9,7 +9,7 @@ pageNav: 3
 
 # Structure of a Session
 
-A well-structured mentoring session is crucial for maximizing learning outcomes and engagement. This guide provides a comprehensive framework based on educational research and best practices.
+A well-structured mentoring session is crucial for maximizing learning outcomes and engagement. This guide provides a comprehensive framework based on educational research and my own experience. Please refer to the [References]({{baseUrl}}/contents/references.html) for the original studies.
 
 ## 📋 Session Structure Overview
 

@@ -26,7 +26,7 @@ There can be mentees who keep asking to change activity. Please continue with yo
 
 #### 1. Here comes our Mentee Coordinators
 
-In order to help your Lead Mentor continue with his/her work, please spend your time finding out why they are bored. Maybe the Lead Mentor's volume is too low.
+In order to help your Lead Mentor continue with his/her work, please spend your time finding out why the mentees are bored. Maybe the Lead Mentor's volume is too low.
 
 But if it is because some mentees don't get enough attention, approach them and engage them to the activity.
 
