@@ -62,8 +62,7 @@
         "time-management-don-t-rush": "⏰ Time Management: Don't Rush!",
         "trust-your-plan-and-stay-confident": "🎯 Trust Your Plan and Stay Confident",
         "the-boost-model-for-effective-feedback": "📋 The BOOST Model for Effective Feedback",
-        "feedback-management-timing-is-everything": "🔄 Feedback Management: Timing is Everything",
-        "practical-strategies-for-common-challenges": "🛠️ Practical Strategies for Common Challenges"
+        "feedback-management-timing-is-everything": "🔄 Feedback Management: Timing is Everything"
       },
       "headingKeywords": {},
       "frontmatterKeywords": "mentee reactions, calm, articulate, BOOST model, time management, feedback, mentoring challenges"
@@ -103,6 +102,11 @@
       },
       "headingKeywords": {},
       "frontmatterKeywords": "feedback collection, debrief, session feedback, mentee input, reflection"
+    },
+    {
+      "src": "contents/form.md",
+      "headings": {},
+      "headingKeywords": {}
     },
     {
       "src": "contents/negotiation.md",
@@ -159,9 +163,13 @@
     },
     {
       "src": "contents/snacks.md",
-      "title": "Topic 3b",
+      "title": "Snacks and More",
       "headings": {
-        "topic-3b": "Topic 3b"
+        "snacks-and-more": "🥞 Snacks and More",
+        "budget-plan": "Budget Plan",
+        "suggested-snacks-and-drinks": "Suggested Snacks and Drinks",
+        "sweet-treats-and-amp-drinks-guide": "🍫 Sweet Treats &amp; Drinks Guide",
+        "pro-tips": "🌟 Pro Tips:"
       },
       "headingKeywords": {}
     },
