@@ -13,7 +13,7 @@ pageNav: 3
 
 According to Smith and Warneken (2016), children from a very young age are aware of the distribution of rewards and punishments based on deservedness. Luckily, the budget given by the course is enough to afford snacks for every single mentoring session.
 
-<box type="tip">
+<box type="tip" header="##### Tips">
   <markdown>
   There are some points that you need to take notes when deciding snacks and rewards for mentess. Refer to [Offering Snacks Tips for Mentors]({{baseUrl}}/contents/snacks.md) for some of my notes and experience.
   </markdown>
@@ -28,7 +28,7 @@ According to Smith and Warneken (2016), children from a very young age are aware
 
 #### **Constructive "Punishments"**
 
-<box type="important">
+<box type="important" header="##### Important">
 These are learning opportunities, not actual punishments
 </box>
 

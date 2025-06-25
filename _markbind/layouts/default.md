@@ -43,6 +43,7 @@
 * [Timeline Template]({{baseUrl}}/contents/timeline_template.html)
 * [Boost Model]({{baseUrl}}/contents/boost_model.html)
 * [Snacks and More]({{baseUrl}}/contents/snacks.html)
+* [Getting-to-Know-You Form]({{baseUrl}}/contents/form.html)
 * [References]({{baseUrl}}/contents/references.html)
       </site-nav>
     </div>

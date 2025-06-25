@@ -30,7 +30,7 @@ In order to help your Lead Mentor continue with his/her work, please spend your 
 
 But if it is because some mentees don't get enough attention, approach them and engage them to the activity.
 
-<box type="important">
+<box type="important" header="##### Important">
 <markdown>
 Do not ask discouraging, distracting questions such as 
 _Do you think this game is boring?_ or _You want to change game?_
