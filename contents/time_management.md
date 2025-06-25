@@ -109,9 +109,11 @@ Rushing through sessions creates several problems:
 - **Mentee Feedback:** Ask about pace and timing
 - **Self-Reflection:** Review timing after sessions
 
----
+<br>
 
 _Remember: It's better to cover fewer topics thoroughly than many topics superficially. Quality learning takes time, and your mentees will benefit more from a well-paced session than a rushed one._
+
+---
 
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('stay_calm', 'trust_your_plan') }}

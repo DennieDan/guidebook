@@ -42,3 +42,8 @@ I highly recommend sweet snacks as it is helpful in boosting the mood and energy
 This information can be collected via the first [Getting to Know You Form]({{baseUrl}}/contents/form.html).
 
 _Remember: Prices may vary depending on where you shop and package sizes! The prices are recorded as in 2025_ 🛒
+
+---
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('boost_model', 'form') }}

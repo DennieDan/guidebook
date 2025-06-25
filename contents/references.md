@@ -13,3 +13,8 @@ pageNav: 3
 - Smith, K. E., & Warneken, F. (2016). _Children's Developing Understanding of Merit and Deservedness_
 - Walton, G., et al. (2019). _Digital Artefacts in Learning: A Comprehensive Review_
 - Sadik, A. (2008). _Digital Storytelling: A Meaningful Technology-Integrated Approach_
+
+---
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('form', '') }}

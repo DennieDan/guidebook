@@ -47,5 +47,7 @@ This step follows the scaffolding rule in Planning & Pedagogy. The final objecti
     Be specific in the activity that you will do at a certain time. Use <i>play badminton</i> instead of <i>play sports</i> in general, in case you are not able to provide them enough equipments.
 </box>
 
+---
+
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('planning', 'rewards') }}

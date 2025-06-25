@@ -171,3 +171,8 @@ Make sure you do not try to collect their personal information. Here are some su
 # 📝 Reference Form
 
 For your reference, this is the form that our team ask the mentees to fill in. This has already been fixed by the supervisor before sending out: https://forms.gle/wcfy4JDpyoZ1Kbn27
+
+---
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('boost_model', 'references') }}

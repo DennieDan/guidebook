@@ -93,5 +93,7 @@ This part is optional but recommended to give mentees food-for-thought. The "ass
 - **Creative Tasks:** Draw a card for your Mom on Mother's Day
 - **Practice Tasks:** Cook a simple dish for your family and take a picture
 
+---
+
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('rewards', 'next_goals') }}

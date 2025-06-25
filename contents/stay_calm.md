@@ -68,9 +68,11 @@ When mentees are noisy or not following instructions, the natural response is of
 - **Controlled Gestures:** Purposeful, not aggressive movements
 - **Calm Voice:** Steady, clear speech
 
----
+<br>
 
 _Remember: Your calmness is contagious. When you remain composed, your mentees are more likely to follow your lead and engage positively in the learning process._
+
+---
 
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('encountering_mentees_reactions', 'time_management') }}

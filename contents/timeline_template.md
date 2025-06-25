@@ -98,3 +98,8 @@ The timeline is for the session with Academic Coaching + Storytelling activities
 - **Flexibility**: Be prepared to adjust timing based on mentee engagement
 - **Communication**: Ensure all team members have the timeline in advance
 - **Documentation**: Keep notes on what worked well for future sessions
+
+---
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('feedback_management', 'boost_model') }}

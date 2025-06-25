@@ -87,5 +87,7 @@ Check this for my [Suggested Timeline Template]({{baseUrl}}/contents/timeline_te
 - **Physical Materials:** [Handouts, equipment]
 - **Assessment Tools:** [Evaluation methods]
 
+---
+
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('structuring_a_mentoring_session', 'negotiation') }}

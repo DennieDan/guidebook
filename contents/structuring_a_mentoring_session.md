@@ -21,9 +21,11 @@ A well-structured mentoring session is crucial for maximizing learning outcomes 
 | **[Debrief]({{baseUrl}}/contents/debrief.html)**                            | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
 | **[Setting Next Goals]({{baseUrl}}/contents/next_goals.html)**              | 5-10 min    | Reflection & assignment  | Knowledge consolidation |
 
----
+<br>
 
 _Remember: The key to successful mentoring is flexibility within structure. While detailed planning is essential, be prepared to adapt based on mentee needs and unexpected circumstances._
+
+---
 
 <!--- Add this to the end of the file -->
 

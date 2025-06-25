@@ -198,9 +198,11 @@ Effective feedback collection is crucial for improving mentoring sessions, but t
 - **Implementation:** Make visible changes based on feedback
 - **Evaluation:** Assess effectiveness of changes
 
----
+<br>
 
 _Remember: Feedback is a gift. When mentees share their thoughts and suggestions, they're investing in the improvement of your mentoring relationship and the learning experience for everyone involved._
+
+---
 
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('trust_your_plan', 'timeline_template') }}

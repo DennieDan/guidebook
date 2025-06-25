@@ -88,5 +88,7 @@ The rewards can be the activity that the mentees wish to do.
 - **Pace Adjustment:** Speed up or slow down as needed
 - **Activity Modification:** Adapt activities to current circumstances
 
+---
+
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('time_management', 'feedback_management') }}

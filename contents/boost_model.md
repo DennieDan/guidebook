@@ -1,7 +1,8 @@
+<span id="title" class="d-none">BOOST Model</span>
 <frontmatter>
-  title: The BOOST Model for Effective Feedback
-  keywords: BOOST model, feedback, communication, balanced, objective, observed, specific, timely
-  pageNav: 3
+title: The BOOST Model for Effective Feedback
+keywords: BOOST model, feedback, communication, balanced, objective, observed, specific, timely
+pageNav: 3
 </frontmatter>
 
 <br>
@@ -193,6 +194,11 @@ BOOST is an acronym that represents five key principles for effective feedback:
 - **Peer Feedback:** Get input from other mentors
 - **Professional Development:** Attend training on communication
 
----
+<br>
 
 _Remember: The BOOST model is not just a technique—it's a mindset. When you consistently apply these principles, you create a learning environment where feedback is constructive, growth-oriented, and well-received._
+
+---
+
+{% from "njk/common.njk" import previous_next %}
+{{ previous_next('timeline_template', 'snacks') }}

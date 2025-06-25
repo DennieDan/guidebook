@@ -46,5 +46,7 @@ My experience is specifically related to upper-primary students (from P4 to P6) 
 Want to contribute, ask questions, or join our next session?
 <a href="mailto:dandinh1922@gmail.com?subject=Teach%20SG%20Journal%20-%20Suggestions%20on%20Improvement&body=Dear%20admin%2C%0AI%20think%20the%20website%20would%20be%20better%20if" class="btn btn-primary">Email Me</a>
 
+---
+
 {% from "njk/common.njk" import previous_next_root %}
 {{ previous_next_root('', 'contents/structuring_a_mentoring_session') }}

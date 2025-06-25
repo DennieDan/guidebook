@@ -17,5 +17,7 @@ Based on the planned Programme Proposal, tell the mentees a little bit on what a
 
 Also let them suggest their desired snacks or rewards also. This increases interaction, build rapport and also make your rewards more meaningful to them, more encouraging in motivating them doing the designed activities.
 
+---
+
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('debrief', 'encountering_mentees_reactions') }}

@@ -72,5 +72,7 @@ Master the BOOST framework for delivering effective feedback and communication. 
 - Common mistakes to avoid
 - Self-assessment tools
 
+---
+
 {% from "njk/common.njk" import previous_next %}
 {{ previous_next('next_goals', 'stay_calm') }}
