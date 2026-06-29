@@ -17,7 +17,6 @@ pageNav: 4
             text-align: center;
             position: relative;">
   <div class="container">
-    <img src="/images/logo.png" alt="Mentoring Logo" style="max-width: 120px; margin-bottom: 1rem; display: block; margin-left: auto; margin-right: auto;" />
     <h1 class="display-5 no-index" style="font-size: 2.8rem; font-weight: 800; letter-spacing: 1px; margin-bottom: 1rem;">🎉 Welcome to my mentoring journal</h1>
     <p class="lead" style="font-size: 1.5rem; font-weight: 600; background: rgba(30,30,30,0.18); display: inline-block; padding: 0.5rem 1.2rem; border-radius: 0.7rem; box-shadow: 0 2px 8px rgba(80,80,180,0.08);">
       Wondering how to be a <span style="color: #4ED6D6; font-weight: bold;">good mentor</span> for <tooltip content="A _Community and Engagement Pillar_ module in NUS. Students are required to mentor primary/secondary school students in order to gather service-learning experience.">GEN2050 Teach SG</tooltip>? <br>This is a <span style="color: #FFB385; font-weight: bold;">mini-guidebook</span> to kickstart your journey.
